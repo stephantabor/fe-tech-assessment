@@ -8,9 +8,9 @@ or send the markdown to an API endpoint to be rendered.
 
 ## Requirements
 
-- [ ] Ability to render markdown client side - given a plain text string or file of markdown, make it possible to render it as HTML.
-- [ ] Ability to call http service to render markdown - use an API that is capable of rendering markdown as an alternative to using local rendering
-- [ ] Make an option for all links in the rendered markdown to open in a new tab - markdown includes links, so make sure that those open in a new tab
+- [ ] Ability to render markdown client side
+- [ ] Ability to call http service to render markdown
+- [ ] Make an option for all links in the rendered markdown to open in a new tab
 - [ ] Publish the component to `npm`
 - [ ] Create a separate project with the Angluar or Vue CLI in the "consumer" sub-folder and use your newly published package in it
 - [ ] Document web component API / usage
