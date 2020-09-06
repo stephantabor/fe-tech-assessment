@@ -45,4 +45,4 @@ There is an example http request in `markdown-server/example-requests`
 
 ## Output
 
-Your output for this assessment should be code committed to the git bundle provided to you where you found this readme
+Your output for this assessment should be code committed to a fork of this repo, just send us the link to your repo when you are done working on it.
